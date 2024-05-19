@@ -8,19 +8,6 @@ You’re a delivery driver for a food charity in a post-apocalyptic world filled
 
 <br />
 
-<h2>In-game Clips:</h2>
-
-<p align="center">
-<img src="https://github.com/Csjg2002/Munch-Mob-Madness/assets/131481041/2cc8be58-0697-46b9-bc8c-89446ec220eb" height="80%" width="80%" alt="Munch Mob Madness"/>
-<br />
-<br />
-<img src="https://github.com/Csjg2002/Munch-Mob-Madness/assets/131481041/ad98ac4b-2d3e-456a-9761-2b03a7e49fa5" height="80%" width="80%" alt="Munch Mob Madness"/>
-<br />
-<br />
-</p>
-
-<br />
-
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
