@@ -27,7 +27,7 @@ You’re a delivery driver for a food charity in a post-apocalyptic world filled
 <img src="https://cdn.imgpile.com/f/ayKxacr_xl.png" height="80%" width="80%" alt="Munch Mob Madness"/>
 <br />
 <br />
-<img src="https://imgpile.com/images/t2S2Lx.png" height="80%" width="80%" alt="Munch Mob Madness"/>
+<img src="https://cdn.imgpile.com/f/4WUryu8_xl.png" height="80%" width="80%" alt="Munch Mob Madness"/>
 <br />
 <br />
 <img src="https://imgpile.com/images/t2Zigb.png" height="80%" width="80%" alt="Munch Mob Madness"/>
