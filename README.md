@@ -1,4 +1,4 @@
-<h1>Munch Mob Madness </h1>
+<h1>Munch Mob Madness</h1>
 
 ### [Itch.Io Page](https://csjg2002.itch.io/munch-mob-madness)
  ### [YouTube Walkthrough](https://www.youtube.com/watch?v=x1-BWapBLv4&t=33s)
