@@ -10,6 +10,8 @@ You’re a delivery driver for a food charity in a post-apocalyptic world filled
 
 Munch Mob Madness offers a fast-paced, arcade-style driving experience that emphasises a combination of speed, precision driving, and precise navigation through a bustling cityscape filled with shortcuts and different types of obstacles.
 
+I was the solo programmer on this project.
+
 <br />
 
 <h2>In-game Screenshots:</h2>
