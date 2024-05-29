@@ -4,13 +4,16 @@
  ### [YouTube Walkthrough](https://www.youtube.com/watch?v=x1-BWapBLv4&t=33s)
 
 <h2>Description</h2>
+<p>
 Munch Mob Madness is a vehicular combat videogame made in Unreal Engine 5 for a university assignment that takes heavy inspiration from games such as Carmageddon, Twisted Metal, and Crazy Taxi.
-
+</p>
+<p>
 You’re a delivery driver for a food charity in a post-apocalyptic world filled with zombies. Zombies were created after people got too hungry and resorted to cannibalism. You need to deliver food supplies to remaining survivors. Delivery vans have been weaponised with the intention of running over zombies and harvesting their blood to keep the delivery service flowing and fuel supplies plentiful.
-
+</p>
 Munch Mob Madness offers a fast-paced, arcade-style driving experience that emphasises a combination of speed, precision driving, and precise navigation through a bustling cityscape filled with shortcuts and different types of obstacles.
-
+<p>
 I was the solo programmer for this project.
+ </p>
 <br />
 
 <h2>In-game Clips:</h2>
