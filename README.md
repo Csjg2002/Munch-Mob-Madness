@@ -13,6 +13,14 @@ Munch Mob Madness offers a fast-paced, arcade-style driving experience that emph
 I was the solo programmer for this project.
 <br />
 
+<h2>In-game Clips:</h2>
+
+<p align="center">
+<img src="" height="80%" width="80%" alt="Munch Mob Madness"/>
+<br />
+<br />
+</p>
+
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
