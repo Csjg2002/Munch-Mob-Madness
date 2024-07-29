@@ -19,7 +19,13 @@ I was the solo programmer for this project.
 <h2>In-game Clips:</h2>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Munch Mob Madness"/>
+<img src="https://github.com/user-attachments/assets/7988bce7-b5c2-4f32-b7db-f6edb8b90a6e" height="80%" width="80%" alt="Munch Mob Madness"/>
+<br />
+<br />
+<img src="https://github.com/user-attachments/assets/dafea396-9b32-4207-8f47-266fb6115654" height="80%" width="80%" alt="Munch Mob Madness"/>
+<br />
+<br />
+<img src="https://github.com/user-attachments/assets/ca95442a-5a08-4c6c-a271-028a1968c2f0" height="80%" width="80%" alt="Munch Mob Madness"/>
 <br />
 <br />
 </p>
