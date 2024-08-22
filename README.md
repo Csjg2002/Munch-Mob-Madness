@@ -13,7 +13,7 @@ You’re a delivery driver for a food charity in a post-apocalyptic world filled
 <p>
 Munch Mob Madness offers a fast-paced, arcade-style driving experience that emphasises a combination of speed, precision driving, and precise navigation through a bustling cityscape filled with shortcuts and different types of obstacles.
 <p>
-This project was my largest Unreal Engine endeavor to date and required me to apply all the skills I’d developed in previous projects. As the sole programmer, I handled everything from coding the driving mechanics to implementing the many different barrel effects.
+This project was my largest Unreal Engine endeavor to date and required me to apply all the skills I’d developed in previous projects. As the sole programmer, I handled everything from coding the driving mechanics, to creating the score system, to implementing the many different barrel effects.
 <br />
 
 <h2>In-game Clips:</h2>
