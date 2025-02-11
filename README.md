@@ -5,15 +5,12 @@
 
 <h2>Description</h2>
 <p>
-Munch Mob Madness is a vehicular combat videogame made in Unreal Engine 5 for a university assignment that takes heavy inspiration from games such as Carmageddon, Twisted Metal, and Crazy Taxi.
+Munch Mob Madness was created for my final university project. It is a vehicular combat game developed in Unreal Engine 5, taking heavy inspiration from titles like Carmageddon, Twisted Metal, and Crazy Taxi. The game is set in a post-apocalyptic world overrun by zombies—creatures born from a society driven to cannibalism due to extreme hunger. As a delivery driver for a food charity, your mission is to deliver supplies to the last surviving humans, using a weaponised delivery van to mow down zombies and harvest their blood to keep the service running and fuel supplies plentiful.
 </p>
 <p>
-You’re a delivery driver for a food charity in a post-apocalyptic world filled with zombies. Zombies were created after people got too hungry and resorted to cannibalism. You need to deliver food supplies to remaining survivors. Delivery vans have been weaponised with the intention of running over zombies and harvesting their blood to keep the delivery service flowing and fuel supplies plentiful.
-</p>
+Munch Mob Madness offers a fast-paced, arcade-style driving experience, focusing on speed, precision driving, and navigating through a city full of shortcuts and various obstacles.
 <p>
-Munch Mob Madness offers a fast-paced, arcade-style driving experience that emphasises a combination of speed, precision driving, and precise navigation through a bustling cityscape filled with shortcuts and different types of obstacles.
-<p>
-This project was my largest Unreal Engine endeavor to date and required me to apply all the skills I’d developed in previous projects. As the sole programmer, I handled everything from coding the driving mechanics, to creating the score system, to implementing the many different barrel effects.
+This project was my largest Unreal Engine endeavour to date, requiring me to apply all the skills I had developed throughout my studies. As the sole programmer, I handled everything from coding the driving mechanics to creating the score system and implementing various barrel effects throughout the game.
 <br />
 
 <h2>In-game Clips:</h2>
