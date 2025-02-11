@@ -5,12 +5,12 @@
 
 <h2>Description</h2>
 <p>
-Munch Mob Madness was created for my final university project. It is a vehicular combat game developed in Unreal Engine 5, taking heavy inspiration from titles like Carmageddon, Twisted Metal, and Crazy Taxi. The game is set in a post-apocalyptic world overrun by zombies—creatures born from a society driven to cannibalism due to extreme hunger. As a delivery driver for a food charity, your mission is to deliver supplies to the last surviving humans, using a weaponised delivery van to mow down zombies and harvest their blood to keep the service running and fuel supplies plentiful.
+Munch Mob Madness was developed as my final university project. It’s a vehicular combat game created in Unreal Engine 5, heavily inspired by classics like Carmageddon, Twisted Metal, and Crazy Taxi. Set in a post-apocalyptic world overrun by zombies—born from a society pushed to cannibalism by extreme hunger—the player takes on the role of a delivery driver for a food charity. Your mission is to deliver supplies to the last survivors, using a weaponised delivery van to mow down zombies and harvest their blood, keeping the service running and fuel supplies plentiful.
 </p>
 <p>
-Munch Mob Madness offers a fast-paced, arcade-style driving experience, focusing on speed, precision driving, and navigating through a city full of shortcuts and various obstacles.
+The game offers a fast-paced, arcade-style driving experience, with an emphasis on speed, precision driving, and navigating a city full of shortcuts and obstacles.
 <p>
-This project was my largest Unreal Engine endeavour to date, requiring me to apply all the skills I had developed throughout my studies. As the sole programmer, I handled everything from coding the driving mechanics to creating the score system and implementing various barrel effects throughout the game.
+This project was my largest Unreal Engine endeavour to date, challenging me to apply everything I had learned throughout my studies. As the sole programmer, I was responsible for coding the driving mechanics, creating the score system, and implementing a variety of barrel effects throughout the game.
 <br />
 
 <h2>In-game Clips:</h2>
